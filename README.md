@@ -14,12 +14,17 @@ This repository is intended to showcase my progress in Custom GPT development, p
 
 Throughout this course, I aim to:
 
-Design Custom GPTs for real-world scenarios
-Define practical AI use cases
-Develop effective system prompts
-Build task-specific AI assistants
-Apply prompt engineering techniques
-Document AI solutions professionally
+1) Design Custom GPTs for real-world scenarios
+
+2) Define practical AI use cases
+
+3) Develop effective system prompts
+
+4) Build task-specific AI assistants
+
+5) Apply prompt engineering techniques
+
+6) Document AI solutions professionally
 
 📚 Assignments
 
@@ -33,17 +38,18 @@ More assignments will be added as I progress through the course.
 
 🛠 Skills Demonstrated
 
-Custom GPT Development
+*Custom GPT Development
 
-AI Use Case Design
+*AI Use Case Design
 
-Prompt Engineering
+*Prompt Engineering
 
-Problem Analysis
+*Problem Analysis
 
-AI Solution Architecture
+*AI Solution Architecture
 
-Technical Documentation
+*Technical Documentation
+
 🎓 Course Information
 
 Course: Custom GPT Hands-On
