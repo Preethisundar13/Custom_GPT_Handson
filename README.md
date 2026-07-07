@@ -24,17 +24,25 @@ Document AI solutions professionally
 📚 Assignments
 
 *Assignment 01	Build a Custom GPT – Employee Help Desk
+
 *Assignment 02	Coming Soon	⏳
+
 *Assignment 03	Coming Soon	⏳
 
 More assignments will be added as I progress through the course.
 
 🛠 Skills Demonstrated
+
 Custom GPT Development
+
 AI Use Case Design
+
 Prompt Engineering
+
 Problem Analysis
+
 AI Solution Architecture
+
 Technical Documentation
 🎓 Course Information
 
