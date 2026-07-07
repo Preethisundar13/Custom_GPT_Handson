@@ -22,10 +22,10 @@ Apply prompt engineering techniques
 Document AI solutions professionally
 
 📚 Assignments
-Assignment	Topic	Status
-Assignment 01	Build a Custom GPT – Employee Help Desk GPT	✅ Completed
-Assignment 02	Coming Soon	⏳
-Assignment 03	Coming Soon	⏳
+
+*Assignment 01	Build a Custom GPT – Employee Help Desk
+*Assignment 02	Coming Soon	⏳
+*Assignment 03	Coming Soon	⏳
 
 More assignments will be added as I progress through the course.
 
