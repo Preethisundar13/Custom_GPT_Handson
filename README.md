@@ -30,7 +30,7 @@ Throughout this course, I aim to:
 
 *Assignment 01	Build a Custom GPT – Employee Help Desk
 
-*Assignment 02	Coming Soon	⏳
+*Assignment 02	System Instructions - Employee Help Desk
 
 *Assignment 03	Coming Soon	⏳
 
