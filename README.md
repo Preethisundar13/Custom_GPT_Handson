@@ -32,7 +32,7 @@ Throughout this course, I aim to:
 
 *Assignment 02	System Instructions - Employee Help Desk
 
-*Assignment 03	Coming Soon	⏳
+*Assignment 03	Persona - Employee Help Desk
 
 More assignments will be added as I progress through the course.
 
