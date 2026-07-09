@@ -36,6 +36,8 @@ Throughout this course, I aim to:
 
 *Assignment 04 Conversation Flow - Employee Help Desk
 
+*Assignment 05 Using Knowlege Files - Employee Help Desk
+
 More assignments will be added as I progress through the course.
 
 🛠 Skills Demonstrated
