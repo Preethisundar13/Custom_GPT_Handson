@@ -42,6 +42,8 @@ Throughout this course, I aim to:
 
 *Assignment 07 Guardrails - Employee Help Desk
 
+*Assignment 08 Prompt tuning - Employee Help Desk
+
 More assignments will be added as I progress through the course.
 
 🛠 Skills Demonstrated
