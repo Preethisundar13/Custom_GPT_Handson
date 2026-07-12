@@ -38,6 +38,8 @@ Throughout this course, I aim to:
 
 *Assignment 05 Using Knowlege Files - Employee Help Desk
 
+*Assignment 06 Tool Governance - Employee Help Desk
+
 More assignments will be added as I progress through the course.
 
 🛠 Skills Demonstrated
