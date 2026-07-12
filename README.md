@@ -44,6 +44,8 @@ Throughout this course, I aim to:
 
 *Assignment 08 Prompt tuning - Employee Help Desk
 
+*Assignment 09 GPT Evaluation - Employee Help Desk
+
 More assignments will be added as I progress through the course.
 
 🛠 Skills Demonstrated
