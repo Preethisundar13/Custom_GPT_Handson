@@ -50,7 +50,10 @@ Throughout this course, I aim to:
 
 Employee Help Desk (Custom AI) : https://gemini.google.com/gem/1iJkviODr2ZMUN_xxvt0oSnXbGgNd1rGJ?usp=sharing
 
-More assignments will be added as I progress through the course.
+*Assignment 11 - Build a Custom gpt - ERP Support assistant
+
+ERP Support Assistant (Custom AI) : https://gemini.google.com/gem/1Z35Uj4Vo5It_bTiQoae8yBfd7oDrFv7u?usp=sharing
+
 
 🛠 Skills Demonstrated
 
