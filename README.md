@@ -46,6 +46,10 @@ Throughout this course, I aim to:
 
 *Assignment 09 GPT Evaluation - Employee Help Desk
 
+*Assignment 10 -  EHD Creation - Employee Help Desk
+
+Employee Help Desk (Custom AI) : https://gemini.google.com/gem/1iJkviODr2ZMUN_xxvt0oSnXbGgNd1rGJ?usp=sharing
+
 More assignments will be added as I progress through the course.
 
 🛠 Skills Demonstrated
